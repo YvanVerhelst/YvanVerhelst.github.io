@@ -5,4 +5,4 @@
    * 2 getallen vraagt aan de gebruiker
    * de som van 2 getallen + 4 toont
    * het produkt van die 2 getallen toontHello World
-3. [oef1-12-dec](https://github.com/YvanVerhelst/YvanVerhelst.github.io/blob/main/oef1-12-dec.pfd) is een oefening ivm API & REST:
+3. [oef1-12-dec](https://github.com/YvanVerhelst/YvanVerhelst.github.io/blob/main/oef1-12-dec.pdf)
